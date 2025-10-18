@@ -1,4 +1,4 @@
-# MOML Project: IMT2022050_118
+# MOML Project
 
 ## Part 1: Fairness-Aware Classification on the Bank Marketing Dataset
 
